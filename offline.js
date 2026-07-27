@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1784931903,
+	"version": 1785122983,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -125,6 +125,8 @@
 		"images/btn2-sheet1.png",
 		"images/sc_text-sheet0.png",
 		"images/sc_click-sheet0.png",
+		"images/coach_bg-sheet0.png",
+		"images/coach_item-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -149,6 +151,7 @@
 		"un.mp4",
 		"v1.mp4",
 		"v2.mp4",
+		"coach.mp4",
 		"adapter.js"
 	]
 }
